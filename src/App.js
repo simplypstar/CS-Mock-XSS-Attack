@@ -1,5 +1,6 @@
-import { useState, useEffect } from 'react'
-import Task from "./Task"
+// import { useState, useEffect } from 'react'
+import { useState } from 'react';
+import Task from "./Task";
 
 
 const App = () => {
